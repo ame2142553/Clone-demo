@@ -7,5 +7,7 @@ This repo can be used by students at Rio Salado College to practice cloning with
 
 You can edit this file by typing on a new line. Say hello. Pass encouraging words to others taking classes.
 
+Hello, I know everyone will do great!
+
 `Perfection isn't required... only progress. You can do this!`
 `Hello, Everyone! Glad to be on this journey with you.`
